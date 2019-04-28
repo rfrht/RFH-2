@@ -25,6 +25,6 @@ Yup. Picture below:
 Of course you can also download [Eagle 9](https://www.autodesk.com/products/eagle/free-download) and play with the schematics and PCB layout in [Design](/Design) folder.
 
 ## Thanks for saving me SERIOUS buck! How do I give back?
-If this project helped you, you can pay me a cup of coffee :) I promise eternal gratitude!
+If this project helped you, you can pay me a cup of coffee :) I promise eternal gratitude! Or else, just star it and I'll be also over the moon! o/
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWSKBXK4DLNL2)
