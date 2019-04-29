@@ -5,7 +5,7 @@ Remote Control compatible with Yaesu FT-991A (and potentially other radios too).
 This is a remote control that is compatible with most modern and recent Yaesu radios. It mimicks the same functionality of [Yaesu FH-2](http://lmgtfy.com/?q=yaesu+fh-2) remote control, at a fraction of the cost.
 
 ## How does the board looks like?
-This is the board layout in its full glory:
+This is the board layout in its full glory (slightly changed from FH-2, because... usability++):
 
 ![RFH-2](https://raw.githubusercontent.com/rfrht/RFH-2/master/Design/RFH-2-top.png)
 
