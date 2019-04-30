@@ -13,6 +13,9 @@ This is the board layout in its full glory (slightly changed from FH-2, because.
 Yup. Picture below:
 ![RFH-2 Prototype](https://raw.githubusercontent.com/rfrht/RFH-2/master/Design/prototype.jpg)
 
+## What are the compatible radios?
+Yaesu FT-991, FT-991A, FT-950, FTDX-9000, FTDX-5000, FTDX-3000, FT-2000, FTDX-1200, FT-1000MP
+
 ## Nice, I liked it! How do I get one?
 1. Download the Gerber [.zip file](https://github.com/rfrht/RFH-2/raw/master/Design/RFH-2_2019-04-28.zip)
 
