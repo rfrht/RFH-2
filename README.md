@@ -1,8 +1,8 @@
 # RFH-2
-Remote Control compatible with Yaesu FT-991A (and potentially other radios too).
+Remote Control unit compatible with most modern Yaesu radios. Includes Schematics, Gerber Files and Board Design.
 
 ## What is this?
-This is a remote control that is compatible with most modern and recent Yaesu radios. It mimicks the same functionality of [Yaesu FH-2](http://lmgtfy.com/?q=yaesu+fh-2) remote control, at a fraction of the cost.
+This is a remote control that is compatible with most modern and recent Yaesu radios. It mimicks the same functionality of [Yaesu FH-2](http://lmgtfy.com/?q=yaesu+fh-2) remote control, at a fraction of the cost ane with a enormous cool factor: YOU CAN ACTUALLY BUILD IT!
 
 ## How does the board looks like?
 This is the board layout in its full glory (slightly changed from FH-2, because... usability++):
@@ -19,7 +19,7 @@ Yaesu FT-991, FT-991A, FT-950, FTDX-9000, FTDX-5000, FTDX-3000, FT-2000, FTDX-12
 ## Nice, I liked it! How do I get one?
 1. Download the Gerber [.zip file](https://github.com/rfrht/RFH-2/raw/master/Design/RFH-2_2019-04-28.zip)
 
-2. Send the PCB file to any PCB Print Service. I have used [JLCPCB](https://jlcpcb.com/quote), they are dead cheap - Paid $2 for 5 boards
+2. Send the Gerber ZIP to any PCB Print Service. I have used [JLCPCB](https://jlcpcb.com/quote), they are dead cheap - Paid $2 for 5 boards
 
 3. Buy the switches and the resistors. The most critical part here are the switches: The board has the footprints for this specific switch, which is [Digikey Part EG6117-ND](https://www.digikey.com/products/en?keywords=eg6117-nd). The Resistors and Capacitor are through-hole and the values are in the Schematic.
 
@@ -31,3 +31,5 @@ Of course you can also download [Eagle 9](https://www.autodesk.com/products/eagl
 If this project helped you, you can pay me a cup of coffee :) I promise eternal gratitude! Or else, just star it and I'll be also over the moon! o/
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWSKBXK4DLNL2)
+
+73s de PY2RAF.
