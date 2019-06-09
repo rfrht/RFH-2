@@ -17,7 +17,7 @@ Yup. Picture below:
 Yaesu FT-991, FT-991A, FT-950, FTDX-9000, FTDX-5000, FTDX-3000, FT-2000, FTDX-1200, FT-1000MP
 
 ## Nice, I liked it! How do I get one?
-1. Download the Gerber [.zip file](https://github.com/rfrht/RFH-2/raw/master/Design/RFH-2_2019-04-28.zip)
+1. Download the Gerber [.zip file](https://github.com/rfrht/RFH-2/raw/master/Design/RFH-2-gerbers.zip)
 
 2. Send the Gerber ZIP to any PCB Print Service. I have used [JLCPCB](https://jlcpcb.com/quote), they are dead cheap - Paid $2 for 5 boards
 
@@ -31,5 +31,19 @@ Of course you can also download [Eagle 9](https://www.autodesk.com/products/eagl
 If this project helped you, you can pay me a cup of coffee :) I promise eternal gratitude! Or else, just star it and I'll be also over the moon! o/
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWSKBXK4DLNL2)
+
+## CHANGELOG
+
+### Revision B (Jun 8, 2019)
+* Fixed the push-button pinout
+* Now makes extensive use of ground plane
+* Rewired the board
+* Larger holes, suitable for a screw, with symmetrical holes at the board edges
+* A through-the-hole pad for the signal input
+* Added a few centimeters more to accomodate the $ABOVE changes
+* And that's it folks!
+
+### Revision A (Apr 28, 2019)
+* Initial release
 
 73s de PY2RAF.
