@@ -29,6 +29,9 @@ Of course you can also download [Eagle 9](https://www.autodesk.com/products/eagl
 
 ## CHANGELOG
 
+### Revision C (May 27, 2024)
+* Fixed the flipped Down arrow and F/B button reported in [Issue 1](https://github.com/rfrht/RFH-2/issues/1) by jgedmond - thank you!
+
 ### Revision B (Jun 8, 2019)
 * Fixed the push-button pinout
 * Now makes extensive use of ground plane
