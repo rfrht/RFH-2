@@ -4,6 +4,8 @@ Remote Control unit compatible with most modern Yaesu radios. Includes Schematic
 ## What is this?
 This is a remote control that is compatible with most modern and recent Yaesu radios. It mimicks the same functionality of [Yaesu FH-2](http://lmgtfy.com/?q=yaesu+fh-2) remote control, at a fraction of the cost ane with a enormous cool factor: YOU CAN ACTUALLY BUILD IT!
 
+Check how [Jim N5JGE](https://www.qrz.com/db/N5JGE) actually built something [**really nifty**](https://github.com/jgedmond/RFH-2/commit/793899766d5572a83a48a860f2a84d2ef02e2b0a) without the need of an enclosure for the board!
+
 ## How does the board looks like?
 This is the board layout in its full glory (slightly changed from FH-2, because... usability++):
 
